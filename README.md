@@ -18,10 +18,9 @@ Beyond my technical aspects, I also am a strong advocate for privacy and securit
 
 ### Research
 
-#### Motivation
 My current research, which is slated for submission to a top conference in January, is on the mutual isolation of user's systems and game protection software. There exists an arms race in online games where users are increasingly malicious, and game companies employ more invasive and closed-source kernel space software to stop them. This creates a system in which neither party trusts each other, and for good reason. To tackle this my research offers a solution through virtualization that divides the system into two sections for the game itself and the remainder of the user's operating system. This allows for a system in which trust is no longer needed, and the game environment can still leverage the same level of protection it has in a bare-metal configuration.
 
-#### Main Challenge
+#### Challenge
 The main challenge in this research is the speed of modern graphics virtualization techniques. Competitive games rely on high-performance to ensure a smooth and fair experience for their playerbase. This is an issue because the current standard known as API forwarding, has as low as 12% of native performance. Due to this, my focus is on re-imagining the graphics virtualization pipeline on Linux.
 
 #### Two-phase Solution
