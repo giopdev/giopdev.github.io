@@ -34,6 +34,7 @@ After this proof of concept, I began porting the functionality to a micro-vm env
 
 
 ### Contact
-E-Mail: [giovanni.p.paladino@gmail.com](giovanni.p.paladino@gmail.com)
+E-Mail: [giovanni.p.paladino@gmail.com](mailto:giovanni.p.paladino@gmail.com)
+
 LinkedIn: [https://www.linkedin.com/in/gppaladino/](https://www.linkedin.com/in/gppaladino/)
 
