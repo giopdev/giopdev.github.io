@@ -1,6 +1,5 @@
-## Security Researcher at ASTeRiSC Research Lab
-## TA for Programming Languages
-## Computer Science Senior at ASU
+### Security Researcher at [ASTeRiSC Research Lab](https://asteriscresearchlab.com/)
+#### TA and Computer Science Senior at ASU
 
 ### Hello, I'm Giovanni
 
