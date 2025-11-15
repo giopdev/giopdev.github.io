@@ -1,5 +1,5 @@
-### Security Researcher at [ASTeRiSC Research Lab](https://asteriscresearchlab.com/)
-#### TA and Computer Science Senior at ASU
+## Security Researcher at [ASTeRiSC Research Lab](https://asteriscresearchlab.com/)
+## TA and Computer Science Senior at ASU
 
 ### Hello, I'm Giovanni
 
@@ -25,7 +25,7 @@ The main challenge in this research is the speed of modern graphics virtualizati
 #### Two-phase Solution
 To accomplish this, I researched the Linux graphics pipeline and modern graphics virtualization techniques and executed a two-phase implementation plan. In my implementation, I started with simulating the targeted environment through the use of two processes. This approach required modifications to the Linux kernel and developing a kernel driver that shadows process memory by probing dynamic memory allocation system calls. This phase taught me a lot about the memory layout of linux processes and how to understand logic in a complex codebase like the Linux Kernel.
 
-After this proof of concept, I began porting the functionality to a micro-vm environment known as Gramine. To accomplish this I researched and made key modifications to QEMU and Gramine. My modifications create a high-performance pipeline for graphics API calls which leverage shadowed memory for no data copying or command encoding overhead. This system allows for far greater performance than current graphics virtualization methods, notably API forwarding. During this phase of implementation, I learned how to push through roadblocks, specifically, I struggled with the implementation of aligning memory from the guest process to the host. It took me nearly a full work week of researching and reading the QEMU codebase and many failed implementations, all while juggling a full course load, but I pushed through and implemented an eloquent solution.
+After this proof of concept, I began porting the functionality to a micro-vm environment known as Gramine. To accomplish this I researched and made key modifications to QEMU and Gramine. My modifications create a high-performance pipeline for graphics API calls which leverage shadowed memory for no data copying or command encoding overhead. This system allows for far greater performance than current graphics virtualization methods, notably API forwarding. During this phase of implementation, I learned how to push through roadblocks, specifically, I struggled with the implementation of aligning memory from the guest process to the host. It took me nearly a full work week of researching and reading the QEMU codebase along with many failed implementations, all while juggling a full course load, but I pushed through and implemented an eloquent solution.
 
 
 ### CV
