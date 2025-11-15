@@ -3,7 +3,7 @@
 
 ### Hello, I'm Giovanni
 
-I'm, currently a senior in Computer Science at Arizona State university with a love for low-level computing and the practical application of systems that protect users. Throughout my time at university, I have found joy in the many late nights of hammering away at complex problems that first seemed insurmountable. Many of these problems currently come from my systems security research in the ASTeRiSC Research Lab under the guidance of Professor Adil Ahmad.
+I'm currently a senior in Computer Science at Arizona State university with a love for low-level computing and the practical application of systems that protect users. Throughout my time at university, I have found joy in the many late nights of hammering away at complex problems that first seemed insurmountable. Many of these problems currently come from my systems security research in the ASTeRiSC Research Lab under the guidance of Professor Adil Ahmad.
 
 
 ### About Me
