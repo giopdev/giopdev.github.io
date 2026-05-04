@@ -1,0 +1,23 @@
+# Jekyll build output
+_site/
+assets/_site/
+
+# Jekyll and Sass caches
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+assets/.jekyll-cache/
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+.bundle/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
